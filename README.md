@@ -16,7 +16,7 @@ The Store wants to create an annual sales report for 2022. So that the owner of 
 - Highest selling category?
 - Percentage of Total Orders delivered.
 
-Dashboard Interaction <a href-"https://github.com/Nandini2233/Data-Analysis-Dashboard/blob/main/project%20ss.png"> View Dashboard</a>
+Dashboard Interaction <a href="https://github.com/Nandini2233/Data-Analysis-Dashboard/blob/main/project%20ss.png">View Dashboard</a>
 
 ## Process
 -Verify data for any missing values and anomalies, and sort out the same.
